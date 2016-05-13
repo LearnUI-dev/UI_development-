@@ -1,0 +1,34 @@
+body{
+  margin:0;
+  padding:0;
+  font-family: georgia;
+}
+#wrapper{
+  width: 1000px;
+  margin: 20px auto;
+}
+#heading p{
+  color:blue;
+  float:left;
+  overflow: hidden;
+}
+#heading img {
+  padding-top: 18.5px;
+  width:15px;
+  height:15px;
+}
+#smallline{
+  clear: both;
+  color:blue;
+  font-size: 80%;
+}
+#first,#second,#thrid,#forth,#fifth,#six,#lastrow{
+  background-color: grey;
+  padding: 3px;
+  margin: 5px;
+  padding-left: 10px;
+}
+#second row
+#lastrow{
+  text-align: center;
+}
